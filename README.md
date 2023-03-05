@@ -2,9 +2,10 @@
   <img height="320" src="amazing-world-of-gumball.gif"> </img>
 </p>
 
-# Hola! 🫠
+# 👋🏼 Hola!
 
-Desarrollador en desarrollo 🤯
+Soy un desarrollador apasionado por el Frontend, el diseño de interfaces y el software en general. Siempre estoy aprendiendo sobre tecnologia y desarrollo de software. Me encanta todo lo relacionado con el desarrollo de software como sus comunidades y sus proyectos🖥️.
+Me gusta el UX/UI aunque no suelo dedicarles mucho tiempo 🫠
 
 ## 🛠 Tecnologías y herramientas
 
@@ -27,5 +28,3 @@ Desarrollador en desarrollo 🤯
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next js logo" title="Next js" height="25" />&nbsp;
-
-read yourself 🫥
