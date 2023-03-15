@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="320" src="amazing-world-of-gumball.gif"> </img>
+  <img height="320" src="https://i.giphy.com/media/EmG6IP5eaE3U4/giphy.webp"> </img>
 </p>
 
 # 👋🏼 Hola!
