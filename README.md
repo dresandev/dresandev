@@ -2,12 +2,12 @@
 
 ### 🌌&nbsp; Sobre mí
 
-&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Actualmente estoy libre para desarrollar proyectos.\
+&nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Actualmente libre para desarrollar proyectos😉.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Me encantan los computadores y la innovacion.\
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Me apasionan las tecnologias para el desarrollo de software.\
-&nbsp;&nbsp;&nbsp;✍️ &nbsp;Me gusta aprender sobre: Arquitectura de software, Backend, Tecnologias emergentes etc.\
-&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Desarrollando desde hace 3 años y los que faltan🫡.\
-&nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👧 &nbsp;Vivo en colombia, soy gran fan de los videojuegos y el cine.
+&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;Me gusta aprender sobre: Arquitectura de software, Frontend, Tecnologias emergentes etc.\
+&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Aprendiendo y desarrollando desde hace 3 años y los que faltan🫡.\
+&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;Vivo en colombia, soy gran fan de los videojuegos y el cine.
 
 <p align="center">
   <a href="mailto:javiandres.016@gmail.com?subject=Hola%20Javier%20Andres"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
