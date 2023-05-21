@@ -1,4 +1,4 @@
-<img src="assets/banner.png"></img>
+<img src="assets/GitHub-banner.png"></img>
 
 ### 🌌&nbsp; Sobre mí
 
