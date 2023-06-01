@@ -6,7 +6,6 @@
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Me encantan los computadores y la innovacion.\
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Me apasionan las tecnologias para el desarrollo de software.\
 &nbsp;&nbsp;&nbsp;✍🏻 &nbsp;Me gusta aprender sobre: Arquitectura de software, Frontend, Tecnologias emergentes etc.\
-&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Aprendiendo y desarrollando desde hace 3 años y los que faltan🫡.\
 &nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;Vivo en colombia, soy gran fan de los videojuegos y el cine.
 
 <p align="center">
