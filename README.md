@@ -2,22 +2,22 @@
 
 ### 🌌&nbsp; Sobre mí
 
-&nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Actualmente libre para desarrollar proyectos😉.\
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Me encantan los computadores y la innovacion.\
-&nbsp;&nbsp;&nbsp;💓 &nbsp;Me apasionan las tecnologias para el desarrollo de software.\
-&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;Me gusta aprender sobre: Arquitectura de software, Frontend, Tecnologias emergentes etc.\
-&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;Vivo en colombia, soy gran fan de los videojuegos y el cine.
+&nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available to work on projects.\
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;I'm passionate about web technologies.\
+&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Software architecture, Frontend, Emerging technologies, etc.\
+&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;I live in Colombia and I'm a big fan of video games and movies.
 
 <p align="center">
   <a href="mailto:javiandres.016@gmail.com?subject=Hola%20Javier%20Andres"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dresandev.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dresan.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dresandev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
 
 <details>
-  <summary><b>💻 &nbsp;Stack principal</b></summary>
+  <summary><b>💻 &nbsp;Main stack.</b></summary>
   <br/>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary><b>🧠 &nbsp;Otras tecnologias, aprendizaje constante</b></summary>
+  <summary><b>🧠 &nbsp;Other technologies.</b></summary>
   <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary><b>⚙️ &nbsp;Estadisticas de GitHub</b></summary>
+  <summary><b>⚙️ &nbsp;GitHub stats</b></summary>
   <br/>
     <p align="center">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=nord&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
