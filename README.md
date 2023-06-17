@@ -1,6 +1,6 @@
 <img src="assets/banner.png"></img>
 
-### 🌌&nbsp; Sobre mí
+### 🌌&nbsp; About me
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available to work on projects.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
