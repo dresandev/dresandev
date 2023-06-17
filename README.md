@@ -1,4 +1,4 @@
-<img src="assets/GH banner.png"></img>
+<img src="assets/banner.png"></img>
 
 ### 🌌&nbsp; Sobre mí
 
