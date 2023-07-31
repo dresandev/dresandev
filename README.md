@@ -1,7 +1,5 @@
 <img src="assets/banner.png"></img>
 
-### 🌌&nbsp; About me
-
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available to work on projects.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
 &nbsp;&nbsp;&nbsp;💓 &nbsp;I'm passionate about web technologies.\
@@ -35,7 +33,6 @@
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-
 </details>
 
 <details>
@@ -45,7 +42,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)&nbsp;
-
 </details>
 
 <details>
@@ -59,5 +55,3 @@
       <img height="150" src="https://github-readme-stats.vercel.app/api?username=dresandev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord&locale=es" />
     </p>
 </details>
-
-<hr/>
