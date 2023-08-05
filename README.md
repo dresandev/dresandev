@@ -1,10 +1,10 @@
 <img src="assets/banner.png"></img>
 
-&nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available to work on projects.\
+&nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
-&nbsp;&nbsp;&nbsp;💓 &nbsp;I'm passionate about web technologies.\
-&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Software architecture, Frontend, Emerging technologies, etc.\
-&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;I live in Colombia and I'm a big fan of video games and movies.
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Fan of web technologies.\
+&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Software architecture, Frontend, Emerging technologies, video games and movies.\
+&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;I was born and live in Colombia.
 
 <p align="center">
   <a href="mailto:javiandres.016@gmail.com?subject=Hola%20Javier%20Andres"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,7 @@
   <summary><b>⚙️ &nbsp;GitHub stats</b></summary>
   <br/>
     <p align="center">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=nord&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
+      <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=nord&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
     </p>
     <p align="center">
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresandev&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord&locale=es" />
