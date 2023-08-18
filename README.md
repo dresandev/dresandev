@@ -1,4 +1,4 @@
-<img width="1834" alt="banner" src="https://github.com/dresandev/dresandev/assets/79766563/2228a062-880c-4997-bad6-771ee2e8386c">
+
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
