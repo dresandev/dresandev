@@ -1,4 +1,4 @@
-
+<img width="1834" alt="banner" src="https://github.com/dresandev/dresandev/assets/79766563/51db58c1-3a6a-4166-9b19-3949e121038a">
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
@@ -39,20 +39,19 @@
   <summary><b>🧠 &nbsp;Other technologies.</b></summary>
   <br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
+  ![Graphql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)&nbsp;
+  ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)&nbsp;
 </details>
 
 <details>
   <summary><b>⚙️ &nbsp;GitHub stats</b></summary>
   <br/>
-    <p align="center">
-      <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=nord&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
-    </p>
-    <p align="center">
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresandev&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord&locale=es" />
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=dresandev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord&locale=es" />
-    </p>
+  <p align="center">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=nord&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
+  </p>
+  <p align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresandev&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord&locale=es" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=dresandev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord&locale=es" />
+  </p>
 </details>
-
