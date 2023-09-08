@@ -1,4 +1,4 @@
-&nbsp;&nbsp;![Github Banner](https://github.com/dresandev/dresandev/assets/79766563/72b376a2-a9cb-4488-ad79-1ecebc12454a)
+![banner](https://github.com/dresandev/dresandev/assets/79766563/ad6280bb-5ebd-47b7-b7a5-b501eb3b56b1)
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="mailto:javiandres.016@gmail.com?subject=Hola%20Javier%20Andres">
-    <img src="https://github.com/dresandev/dresandev/assets/79766563/bbaebb05-ce03-4a41-8d6d-c2a6b6cb8b0f" />
+    <img src="https://github.com/dresandev/dresandev/assets/79766563/6354f14a-aa8d-456b-b982-695382c6a447" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.dresan.me/">
-    <img src="https://github.com/dresandev/dresandev/assets/79766563/6ce70185-6ab8-4a72-a780-7ccd42a7aac0" />
+    <img src="https://github.com/dresandev/dresandev/assets/79766563/9da4d525-b067-4428-a812-9c4b8a026ac1" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dresandev/">
-    <img src="https://github.com/dresandev/dresandev/assets/79766563/ea8a3ab6-909e-4521-ad57-7ab61d9e1134" />
+    <img src="https://github.com/dresandev/dresandev/assets/79766563/76c8be60-c1a9-4ba3-93af-a6e19d6436d8" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -23,31 +23,31 @@
 <details>
   <summary><b>💻 &nbsp;Main stack.</b></summary>
   <br/>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![Next js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+  
+  ![typescript](https://github.com/dresandev/dresandev/assets/79766563/b2a116ae-4a40-4877-8295-bfcf5061adc2)&nbsp;
+  ![tailwind](https://github.com/dresandev/dresandev/assets/79766563/a8d1c260-a968-4c43-b4c2-4963bbbef147)&nbsp;
+  ![sass](https://github.com/dresandev/dresandev/assets/79766563/be9733ab-a76e-4d24-835d-3ec72833328e)&nbsp;
+  ![react](https://github.com/dresandev/dresandev/assets/79766563/370aac3d-6149-431d-8ed0-7a1914dfe0af)&nbsp;
+  ![postgreSQL](https://github.com/dresandev/dresandev/assets/79766563/42ba3b16-0cfd-4ade-a3cd-ff24d6f3651f)&nbsp;
+  ![nodejs](https://github.com/dresandev/dresandev/assets/79766563/9f0e7ec0-7437-4eff-88d8-cb049881c4fb)&nbsp;
+  ![next](https://github.com/dresandev/dresandev/assets/79766563/acac638d-8760-48b2-915d-c93324ea964a)&nbsp;
+  ![mongodb](https://github.com/dresandev/dresandev/assets/79766563/9b85d40f-546a-4b81-a8c0-4c3ce56f7006)&nbsp;
+  ![javascript](https://github.com/dresandev/dresandev/assets/79766563/7d9fa8d5-4546-4951-a8fc-8102a09a3649)&nbsp;
+  ![html](https://github.com/dresandev/dresandev/assets/79766563/06cd2b30-6aeb-40ca-a875-0261acaaba7f)&nbsp;
+  ![git](https://github.com/dresandev/dresandev/assets/79766563/eb20f4a6-b835-474a-a999-bdc6a21a4ee1)&nbsp;
+  ![flutter](https://github.com/dresandev/dresandev/assets/79766563/a99986bd-c7a7-4128-bb08-7137772011d7)&nbsp;
+  ![express](https://github.com/dresandev/dresandev/assets/79766563/b8979bc8-b95d-4527-b801-32252e831754)&nbsp;
+  ![dart](https://github.com/dresandev/dresandev/assets/79766563/d94cb6e1-004a-4855-9298-6d43685a0560)&nbsp;
+  ![css](https://github.com/dresandev/dresandev/assets/79766563/c8d2b8ca-cfd6-4d64-b47f-7b8d2410ab2f)&nbsp;
 </details>
 
 <details>
   <summary><b>🧠 &nbsp;Other technologies.</b></summary>
   <br/>
 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
-  ![Graphql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)&nbsp;
-  ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)&nbsp;
+  ![docker](https://github.com/dresandev/dresandev/assets/79766563/57a83c67-5b93-48a6-9796-f4911a366da9)&nbsp;
+  ![reddis](https://github.com/dresandev/dresandev/assets/79766563/e7745aa1-9286-47bd-8e00-6217dd8b1aaa)&nbsp;
+  ![graphql](https://github.com/dresandev/dresandev/assets/79766563/dea8b330-11d5-4e60-a10e-ba01498cd207)&nbsp;
 </details>
 
 <details>
