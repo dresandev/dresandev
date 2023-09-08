@@ -1,4 +1,4 @@
-<img width="1834" alt="banner" src="https://github.com/dresandev/dresandev/assets/79766563/51db58c1-3a6a-4166-9b19-3949e121038a">
+&nbsp;&nbsp;![Github Banner](https://github.com/dresandev/dresandev/assets/79766563/72b376a2-a9cb-4488-ad79-1ecebc12454a)
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
@@ -7,9 +7,15 @@
 &nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;I was born and live in Colombia.
 
 <p align="center">
-  <a href="mailto:javiandres.016@gmail.com?subject=Hola%20Javier%20Andres"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.dresan.me/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dresandev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:javiandres.016@gmail.com?subject=Hola%20Javier%20Andres">
+    <img src="https://github.com/dresandev/dresandev/assets/79766563/bbaebb05-ce03-4a41-8d6d-c2a6b6cb8b0f" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.dresan.me/">
+    <img src="https://github.com/dresandev/dresandev/assets/79766563/6ce70185-6ab8-4a72-a780-7ccd42a7aac0" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dresandev/">
+    <img src="https://github.com/dresandev/dresandev/assets/79766563/ea8a3ab6-909e-4521-ad57-7ab61d9e1134" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
