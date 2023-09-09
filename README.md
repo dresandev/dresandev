@@ -6,18 +6,6 @@
 &nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Software architecture, Frontend, Emerging technologies, video games and movies.\
 &nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;I was born and live in Colombia.
 
-<p align="center">
-  <a href="mailto:javiandres.016@gmail.com?subject=Hola%20Javier%20Andres">
-    <img src="https://github.com/dresandev/dresandev/assets/79766563/6354f14a-aa8d-456b-b982-695382c6a447" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.dresan.me/">
-    <img src="https://github.com/dresandev/dresandev/assets/79766563/9da4d525-b067-4428-a812-9c4b8a026ac1" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dresandev/">
-    <img src="https://github.com/dresandev/dresandev/assets/79766563/76c8be60-c1a9-4ba3-93af-a6e19d6436d8" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <hr/>
 
 <details>
@@ -54,10 +42,10 @@
   <summary><b>⚙️ &nbsp;GitHub stats</b></summary>
   <br/>
   <p align="center">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=nord&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=one-dark-pro&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
   </p>
   <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresandev&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord&locale=es" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=dresandev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord&locale=es" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresandev&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=one_dark_pro&locale=es" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=dresandev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=one_dark_pro&locale=es" />
   </p>
 </details>
