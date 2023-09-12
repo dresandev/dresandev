@@ -1,4 +1,4 @@
-![banner](https://github.com/dresandev/dresandev/assets/79766563/ad6280bb-5ebd-47b7-b7a5-b501eb3b56b1)
+![image](https://github.com/dresandev/dresandev/assets/79766563/a3df3dfc-db7d-4ee4-ac4d-71c610f64d98)
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and innovation.\
