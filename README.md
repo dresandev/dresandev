@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and creativity.\
 &nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Software architecture, Frontend, Emerging technologies, video games and movies.\
-&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;I was born and live in Colombia.
+&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;From Colombia.
 
 <hr/>
 
