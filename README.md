@@ -2,8 +2,8 @@
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and creativity.\
-&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Software architecture, Frontend, Emerging technologies, video games and movies.\
-&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;From Colombia.
+&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Frontend development, Emerging technologies, video games and movies.\
+&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;From Colombia to the world.
 
 <hr/>
 
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary><b>🧠 &nbsp;Other technologies.</b></summary>
+  <summary><b>🧠 &nbsp;Learning.</b></summary>
   <br/>
 
   ![docker](https://github.com/dresandev/dresandev/assets/79766563/57a83c67-5b93-48a6-9796-f4911a366da9)&nbsp;
