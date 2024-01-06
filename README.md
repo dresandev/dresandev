@@ -1,9 +1,6 @@
+![github-banner](https://github.com/dresandev/dresandev/assets/79766563/b514452a-d836-451e-91ae-f132a3556cf7)
 
-
-&nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Currently available.\
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;I love technology and creativity.\
-&nbsp;&nbsp;&nbsp;✍🏻 &nbsp;I enjoy learning about: Frontend development, Emerging technologies, video games and movies.\
-&nbsp;&nbsp;&nbsp;🧒🏻 &nbsp;From Colombia to the world.
+¡Hola, hola🌊! Me llamo Javier Andrés, puedes decirme Dresan. Desarrollador de software Colombiano enfocado en el Front-end, que disfruta del desarrollo de UX/UI🎨, la tecnología y aprender sobre arquitectura de software.🚀💻
 
 <hr/>
 
