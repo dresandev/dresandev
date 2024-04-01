@@ -1,6 +1,6 @@
 ![github-banner](https://github.com/dresandev/dresandev/assets/79766563/cd838833-4282-4b60-9e6c-c6e920ac8b01)
 
-Desarrollador de software enfocado en el Front-end, apasionado por las soluciones personalizadas, defensor de los pequeños detalles y gran fan de CSS (¡El mejor lenguaje de programación! 🙂).
+La luna es falsa 🫥, CSS es el mejor lenguaje de programación 🙂, ¡2 y 2 son 4, 4 y 2 son 6, 6 y 2 son 8 y 8, 16!
 
 <hr />
 
