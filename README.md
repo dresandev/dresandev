@@ -1,4 +1,6 @@
-¡Hola, hola🌊! Me llamo Javier Andrés, puedes decirme Dresan. Desarrollador de software Colombiano enfocado en el Front-end, que disfruta del desarrollo de UX/UI🎨, la tecnología y aprender sobre arquitectura de software.🚀💻
+![github-banner](https://github.com/dresandev/dresandev/assets/79766563/cd838833-4282-4b60-9e6c-c6e920ac8b01)
+
+Desarrollador de software enfocado en el Front-end, apasionado por las soluciones personalizadas, defensor de los pequeños detalles y gran fan de CSS (¡El mejor lenguaje de programación! 😊).
 
 <hr/>
 
@@ -21,15 +23,6 @@
   ![express](https://github.com/dresandev/dresandev/assets/79766563/b8979bc8-b95d-4527-b801-32252e831754)&nbsp;
   ![dart](https://github.com/dresandev/dresandev/assets/79766563/d94cb6e1-004a-4855-9298-6d43685a0560)&nbsp;
   ![css](https://github.com/dresandev/dresandev/assets/79766563/c8d2b8ca-cfd6-4d64-b47f-7b8d2410ab2f)&nbsp;
-</details>
-
-<details>
-  <summary><b>🧠 &nbsp;Learning.</b></summary>
-  <br/>
-
-  ![docker](https://github.com/dresandev/dresandev/assets/79766563/57a83c67-5b93-48a6-9796-f4911a366da9)&nbsp;
-  ![reddis](https://github.com/dresandev/dresandev/assets/79766563/e7745aa1-9286-47bd-8e00-6217dd8b1aaa)&nbsp;
-  ![graphql](https://github.com/dresandev/dresandev/assets/79766563/dea8b330-11d5-4e60-a10e-ba01498cd207)&nbsp;
 </details>
 
 <details>
