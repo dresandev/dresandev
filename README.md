@@ -2,7 +2,7 @@
 
 Desarrollador de software enfocado en el Front-end, apasionado por las soluciones personalizadas, defensor de los pequeños detalles y gran fan de CSS (¡El mejor lenguaje de programación! 🙂).
 
-<hr/>
+<hr />
 
 <details>
   <summary><b>💻 &nbsp;Main stack.</b></summary>
