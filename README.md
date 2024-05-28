@@ -1,4 +1,4 @@
-![github-banner](https://github.com/dresandev/dresandev/assets/79766563/cd838833-4282-4b60-9e6c-c6e920ac8b01)
+![github-banner](https://github.com/dresandev/dresandev/assets/79766563/bd18dd98-3caa-48d4-b0d9-d50661e6c322)
 
 En efecto, es iluminati 🫥; CSS es el mejor lenguaje de programación 🙂; ¡2 y 2 son 4, 4 y 2 son 6, 6 y 2 son 8 y 8, 16!
 
