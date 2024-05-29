@@ -1,38 +1,39 @@
-![github-banner](https://github.com/dresandev/dresandev/assets/79766563/bd18dd98-3caa-48d4-b0d9-d50661e6c322)
+![b](https://github.com/dresandev/dresandev/assets/79766563/918d9449-f0c6-4ffe-ae80-07eca258eddc)
 
-En efecto, es iluminati 🫥; CSS es el mejor lenguaje de programación 🙂; ¡2 y 2 son 4, 4 y 2 son 6, 6 y 2 son 8 y 8, 16!
+* Tienes que hacer las cosas que crees que no puedes hacer.
+* --favorite-lenguage: Spanish.
+* 2 y 2 son 4, 4 y 2 son 6, 6 y 2 son 8 y 8, 16!
 
 <hr />
 
 <details>
-  <summary><b>💻 &nbsp;Main stack.</b></summary>
+  <summary><b>💻 &nbsp;Tecnologías</b></summary>
   <br/>
   
-  ![typescript](https://github.com/dresandev/dresandev/assets/79766563/b2a116ae-4a40-4877-8295-bfcf5061adc2)&nbsp;
-  ![tailwind](https://github.com/dresandev/dresandev/assets/79766563/a8d1c260-a968-4c43-b4c2-4963bbbef147)&nbsp;
-  ![sass](https://github.com/dresandev/dresandev/assets/79766563/be9733ab-a76e-4d24-835d-3ec72833328e)&nbsp;
-  ![react](https://github.com/dresandev/dresandev/assets/79766563/370aac3d-6149-431d-8ed0-7a1914dfe0af)&nbsp;
-  ![postgreSQL](https://github.com/dresandev/dresandev/assets/79766563/42ba3b16-0cfd-4ade-a3cd-ff24d6f3651f)&nbsp;
-  ![nodejs](https://github.com/dresandev/dresandev/assets/79766563/9f0e7ec0-7437-4eff-88d8-cb049881c4fb)&nbsp;
-  ![next](https://github.com/dresandev/dresandev/assets/79766563/acac638d-8760-48b2-915d-c93324ea964a)&nbsp;
-  ![mongodb](https://github.com/dresandev/dresandev/assets/79766563/9b85d40f-546a-4b81-a8c0-4c3ce56f7006)&nbsp;
-  ![javascript](https://github.com/dresandev/dresandev/assets/79766563/7d9fa8d5-4546-4951-a8fc-8102a09a3649)&nbsp;
-  ![html](https://github.com/dresandev/dresandev/assets/79766563/06cd2b30-6aeb-40ca-a875-0261acaaba7f)&nbsp;
-  ![git](https://github.com/dresandev/dresandev/assets/79766563/eb20f4a6-b835-474a-a999-bdc6a21a4ee1)&nbsp;
-  ![flutter](https://github.com/dresandev/dresandev/assets/79766563/a99986bd-c7a7-4128-bb08-7137772011d7)&nbsp;
-  ![express](https://github.com/dresandev/dresandev/assets/79766563/b8979bc8-b95d-4527-b801-32252e831754)&nbsp;
-  ![dart](https://github.com/dresandev/dresandev/assets/79766563/d94cb6e1-004a-4855-9298-6d43685a0560)&nbsp;
-  ![css](https://github.com/dresandev/dresandev/assets/79766563/c8d2b8ca-cfd6-4d64-b47f-7b8d2410ab2f)&nbsp;
+  ![react](https://github.com/dresandev/dresandev/assets/79766563/9924a721-4c22-4343-b929-433173415a73)
+  ![postgreSQL](https://github.com/dresandev/dresandev/assets/79766563/b4a168a3-f929-4cd6-a9bb-4b09d003936d)
+  ![nodejs](https://github.com/dresandev/dresandev/assets/79766563/5a8ca97f-3aea-4b0d-ae44-de4e5fc472d6)
+  ![next](https://github.com/dresandev/dresandev/assets/79766563/8ad1858f-b6e1-4561-bbae-1afb1abc8483)
+  ![mongodb](https://github.com/dresandev/dresandev/assets/79766563/e8106c30-c48c-4a10-beb0-cceed1562bc0)
+  ![javascript](https://github.com/dresandev/dresandev/assets/79766563/ffb143f8-e1a9-44ed-80f4-72117339cdaa)
+  ![html](https://github.com/dresandev/dresandev/assets/79766563/d56803ac-2b3b-446d-9dee-3d1673e9581e)
+  ![git](https://github.com/dresandev/dresandev/assets/79766563/81922395-b36a-4725-bfa1-79c06ce6e0d3)
+  ![express](https://github.com/dresandev/dresandev/assets/79766563/ce8b6bd6-80e7-440c-ad67-ce47591d863b)
+  ![css](https://github.com/dresandev/dresandev/assets/79766563/62e768f0-2678-4566-9bed-0fa02552b825)
+  ![typescript](https://github.com/dresandev/dresandev/assets/79766563/bc045fc5-f18d-41d9-a5dd-3f6771ca070a)
+  ![tailwind](https://github.com/dresandev/dresandev/assets/79766563/60599c4e-a657-4fbd-9c5d-47b6162e6ddd)
+  ![styled-components](https://github.com/dresandev/dresandev/assets/79766563/fb49dcce-75f0-42d4-b621-b593f6979308)
+  ![sass](https://github.com/dresandev/dresandev/assets/79766563/b2a878c1-8253-4837-8188-fa2c091e7bc4)
 </details>
 
 <details>
-  <summary><b>⚙️ &nbsp;GitHub stats</b></summary>
+  <summary><b>⚙️ &nbsp;GitHub Estadísticas</b></summary>
   <br/>
   <p align="center">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=one-dark-pro&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dresandev&theme=swift&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D" />
   </p>
   <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresandev&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=one_dark_pro&locale=es" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=dresandev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=one_dark_pro&locale=es" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=dresandev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=swift&locale=es" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dresandev&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=swift&locale=es" />
   </p>
 </details>
