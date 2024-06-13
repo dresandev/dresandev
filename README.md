@@ -1,8 +1,6 @@
 ![b](https://github.com/dresandev/dresandev/assets/79766563/918d9449-f0c6-4ffe-ae80-07eca258eddc)
 
-* Tienes que hacer las cosas que crees que no puedes hacer.
-* --favorite-lenguage: Spanish.
-* 2 y 2 son 4, 4 y 2 son 6, 6 y 2 son 8 y 8, 16!
+Haz lo que no puedes hacer.
 
 <hr />
 
