@@ -1,7 +1,5 @@
 ![b](https://github.com/dresandev/dresandev/assets/79766563/918d9449-f0c6-4ffe-ae80-07eca258eddc)
 
-Haz lo que no puedes hacer.
-
 <hr />
 
 <details>
